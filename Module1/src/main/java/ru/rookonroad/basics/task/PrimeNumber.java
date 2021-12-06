@@ -1,4 +1,4 @@
-package ru.rookonroad.basics.test;
+package ru.rookonroad.basics.task;
 
 /**
  * Без использования библиотечных классов реализовать два метода (удобнее сначала реализовать isPrime, а потом использовать его в searchPrimeNums

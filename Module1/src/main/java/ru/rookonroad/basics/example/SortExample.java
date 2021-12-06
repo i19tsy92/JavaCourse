@@ -1,4 +1,4 @@
-package ru.rookonroad.basics.exercise;
+package ru.rookonroad.basics.example;
 
 public class SortExample {
 

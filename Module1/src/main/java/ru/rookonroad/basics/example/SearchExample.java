@@ -1,6 +1,6 @@
-package ru.rookonroad.basics.exercise;
+package ru.rookonroad.basics.example;
 
-import ru.rookonroad.basics.test.ArrayUtils;
+import ru.rookonroad.basics.task.ArrayUtils;
 
 public class SearchExample {
 

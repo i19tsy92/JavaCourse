@@ -1,6 +1,6 @@
 package ru.rookonroad.basics;
 
-import ru.rookonroad.basics.exercise.SearchExample;
+import ru.rookonroad.basics.example.SearchExample;
 
 /**
  * В методе main этого класса можно запускать любые примеры или задачи

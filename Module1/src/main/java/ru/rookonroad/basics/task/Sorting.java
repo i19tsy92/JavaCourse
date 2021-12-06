@@ -1,4 +1,4 @@
-package ru.rookonroad.basics.test;
+package ru.rookonroad.basics.task;
 
 /**
  * Задачи на различные алгоритмы сортировки
