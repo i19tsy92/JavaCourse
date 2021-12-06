@@ -1,6 +1,6 @@
 # JAVA COURSE
 ## Состав:
-- Module1: Java Core: примеры и задачи для самостоятельного выполнения
+- Module1: Java Core: Basics, Collections, Stream API, Multithreading: примеры и задачи для самостоятельного выполнения
 - Module2: Web: Spring boot, Sql, Hibernate, Jpa, Junit, Mockito: примеры и задачи для самостоятельного выполнения
 - Module3*: Дополнительные инструменты: Docker, Maven, Kafka, RabbitMQ
 - Module4*: Reactive: WebFlux, Reactive Programming
