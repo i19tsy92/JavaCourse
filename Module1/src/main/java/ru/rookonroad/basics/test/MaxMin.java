@@ -14,10 +14,7 @@ public class MaxMin {
     private int[] array;
 
     public MaxMin() {
-        this.array = new int[100];
-        for (int i = 0; i < 100; i ++) {
-            array[i] = (int)(Math.random()*100);
-        }
+        this.array = ArrayUtils.gen(100);
     }
 
     public int max() {

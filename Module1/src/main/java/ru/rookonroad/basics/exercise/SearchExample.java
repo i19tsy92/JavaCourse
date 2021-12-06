@@ -1,15 +1,15 @@
 package ru.rookonroad.basics.exercise;
 
+import ru.rookonroad.basics.test.ArrayUtils;
+
 public class SearchExample {
 
     private int[] array;
+    private int size;
 
-    public SearchExample() {
-        this.array = new int[100];
-        for (int i = 0; i < 100; i ++) {
-            array[i] = (int)(Math.random()*100);
-            System.out.println(array[i]);
-        }
+    public SearchExample(int size) {
+        this.size = size;
+        this.array = ArrayUtils.gen(size);
     }
 
     /**
@@ -19,7 +19,7 @@ public class SearchExample {
      */
     public boolean search(int searched) {
         boolean result = false;
-        for (int i = 0; i < 100; i ++) {
+        for (int i = 0; i < size; i ++) {
             if (array[i] == searched) {
                 result = true;
             }
@@ -34,7 +34,7 @@ public class SearchExample {
      */
     public int count(int searched) {
         int count = 0;
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < size; i++) {
             if (array[i] == searched) {
                 count ++;
             }
