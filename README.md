@@ -4,7 +4,7 @@
 - Module2: Web: Spring boot, Sql, Hibernate, Jpa, Junit, Mockito: примеры и задачи для самостоятельного выполнения
 - Module3*: Дополнительные инструменты: Docker, Maven, Kafka, RabbitMQ
 - Module4*: Reactive: WebFlux, Reactive Programming
-- Test: Задачи для самостоятельного выполнения, с ревью
+- Test: Задачи для самостоятельного выполнения
 ## Как работать с проектом:
 
 - Сделать fork от master ветки проекта на гите (этот проект), кнопка fork находится сверху справа
